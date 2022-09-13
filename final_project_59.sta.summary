@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Change[1]'
+Slack : -68.208
+TNS   : -2414.179
+
+Type  : Slow 1200mV 85C Model Setup 'Stop'
+Slack : -20.560
+TNS   : -265.342
+
+Type  : Slow 1200mV 85C Model Setup 'state.Idle_state'
+Slack : -2.238
+TNS   : -6.192
+
+Type  : Slow 1200mV 85C Model Hold 'Stop'
+Slack : -0.476
+TNS   : -0.493
+
+Type  : Slow 1200mV 85C Model Hold 'Change[1]'
+Slack : -0.205
+TNS   : -2.344
+
+Type  : Slow 1200mV 85C Model Hold 'state.Idle_state'
+Slack : 1.651
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Stop'
+Slack : -3.000
+TNS   : -66.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Change[1]'
+Slack : -1.000
+TNS   : -68.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'state.Idle_state'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Change[1]'
+Slack : -60.844
+TNS   : -2152.018
+
+Type  : Slow 1200mV 0C Model Setup 'Stop'
+Slack : -18.197
+TNS   : -228.613
+
+Type  : Slow 1200mV 0C Model Setup 'state.Idle_state'
+Slack : -1.928
+TNS   : -5.348
+
+Type  : Slow 1200mV 0C Model Hold 'Stop'
+Slack : -0.543
+TNS   : -0.636
+
+Type  : Slow 1200mV 0C Model Hold 'Change[1]'
+Slack : -0.120
+TNS   : -1.141
+
+Type  : Slow 1200mV 0C Model Hold 'state.Idle_state'
+Slack : 1.526
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Stop'
+Slack : -3.000
+TNS   : -66.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Change[1]'
+Slack : -1.000
+TNS   : -68.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'state.Idle_state'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Change[1]'
+Slack : -37.882
+TNS   : -1332.100
+
+Type  : Fast 1200mV 0C Model Setup 'Stop'
+Slack : -11.282
+TNS   : -126.121
+
+Type  : Fast 1200mV 0C Model Setup 'state.Idle_state'
+Slack : -1.131
+TNS   : -3.061
+
+Type  : Fast 1200mV 0C Model Hold 'Stop'
+Slack : -0.557
+TNS   : -5.404
+
+Type  : Fast 1200mV 0C Model Hold 'Change[1]'
+Slack : -0.172
+TNS   : -3.764
+
+Type  : Fast 1200mV 0C Model Hold 'state.Idle_state'
+Slack : 1.204
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Stop'
+Slack : -3.000
+TNS   : -75.355
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Change[1]'
+Slack : -1.000
+TNS   : -68.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'state.Idle_state'
+Slack : 0.398
+TNS   : 0.000
+
+------------------------------------------------------------
